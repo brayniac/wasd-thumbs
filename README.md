@@ -8,4 +8,4 @@ This layout is for the 105 key ISO Cherry MX Custom set and can be ordered [here
 
 [1]: http://thumbs.club
 [2]: http://www.wasdkeyboards.com/index.php/products/keycap-set/105-key-iso-cherry-mx-keycap-set.html
-[3]: https://github.com/brayniac/wasd-thumbs/blob/master/wasd-thumbs.ai?raw=true
+[3]: https://github.com/brayniac/wasd-thumbs/blob/master/wasd-thumbs.png?raw=true
